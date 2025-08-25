@@ -30,4 +30,4 @@ Users can add, delete, and manage their daily tasks easily.
 ## 📦 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/todos-app-with-react.git
+   git clone https://github.com/sherry21/todos-app-with-react.git
